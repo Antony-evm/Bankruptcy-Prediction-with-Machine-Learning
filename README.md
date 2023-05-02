@@ -7,7 +7,11 @@ Predicting corporate bankruptcy is of interest to creditors, investors, borrowin
 Overview of files
 
 final_boosting_algorithms.ipynb: GBM, XGBOOST,CATBOOST
-autosklearn_final.ipynb: the autosklearn model – it works only in Linux
+
+autosklearn_final.ipynb: the autosklearn model â€“ it works only in Linux
+
 final_h2oAutoMl.ipynb: the h2o model
-final_ipynb_algorithms.ipynb: logistic regression, naïve bayes, decision trees
+
+final_ipynb_algorithms.ipynb: logistic regression, naÃ¯ve bayes, decision trees
+
 final_NN_implementation.ipynb: Neural networks implementation
