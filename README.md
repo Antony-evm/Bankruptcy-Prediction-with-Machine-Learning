@@ -15,3 +15,11 @@ final_h2oAutoMl.ipynb: the h2o model
 final_ipynb_algorithms.ipynb: logistic regression, naïve bayes, decision trees
 
 final_NN_implementation.ipynb: Neural networks implementation
+
+More details around the implementation and the findings of this project can be found
+
+a) Within this repository
+
+b) [My website](http://www.aevmorfop.co.uk/topics/projects/predicting_bankruptcy)
+
+c) By contacting me - [LinkedIn](https://www.linkedin.com/in/antony-evmorfopoulos/)
